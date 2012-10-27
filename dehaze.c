@@ -1,4 +1,4 @@
-/*refTest.cpp 
+/*dehaze.cpp 
  *
  *Author Huaijin
  *Email  huaijin511@gmail.com
